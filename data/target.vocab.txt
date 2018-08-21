@@ -1,0 +1,4 @@
+POS	0
+DES	1
+NEG	2
+OBJ	3
